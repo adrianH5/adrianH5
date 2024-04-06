@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Adrian 
 
-I'm a passionate developer interested in a wide range of technologies, from web development to low level programming. I love to learn and grow my skills, and I'm always looking for new challenges and opportunities.
+I'm an aspiring developer interested in a wide range of technologies, from web development to low level programming. I love to learn and grow my skills, and I'm always looking for new challenges and opportunities.
 
 ## 🛠 Skills
 
 - Web Development: HTML, CSS, JavaScript, React, Vue.js
-- Others: C, C++, Rust
+- Others: C, C++, Rust, Python
 - Databases: PostgreSQL
 
 ## 📚 I’m currently learning
