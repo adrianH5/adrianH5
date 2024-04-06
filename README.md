@@ -5,7 +5,7 @@ I'm a passionate developer interested in a wide range of technologies, from web 
 ## 🛠 Skills
 
 - Web Development: HTML, CSS, JavaScript, React, Vue.js
-- Low Level Programming: C, C++, Rust
+- Others: C, C++, Rust
 - Databases: PostgreSQL
 
 ## 📚 I’m currently learning
