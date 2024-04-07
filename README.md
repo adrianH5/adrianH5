@@ -4,7 +4,7 @@ I'm an aspiring developer interested in a wide range of technologies, from web d
 
 ## 🛠 Skills
 
-- Web Development: HTML, CSS, JavaScript, React, Vue.js
+- Web Development: HTML, CSS, JavaScript, Typescript, React, Vue.js
 - Others: C, C++, Rust, Python
 - Databases: PostgreSQL
 
