@@ -1,2 +1,1 @@
-cs student
-
+university student studying computer science
